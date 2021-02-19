@@ -66,5 +66,5 @@ else:
 
 print("Thank You For Playing! You Scored: ", score)
 print("Credits: Arnav Naik")
-print("Check Out My GitHub: https://github.com/code643/Trivia")
+print("Check Out My GitHub: https://github.com/code643/Stable-Release-of-Trivia")
     
